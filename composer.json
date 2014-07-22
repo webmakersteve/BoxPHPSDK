@@ -1,0 +1,12 @@
+{
+    "name": "webmakersteve/box_sdk",
+    "require": {
+
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/webmakersteve/BoxPHPSDK.git"
+        }
+    ]
+}
